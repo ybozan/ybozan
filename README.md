@@ -41,6 +41,22 @@
 
 ---
 
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yunus-bozan-1454ba295/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/ybozan">
+    <img src="https://skillicons.dev/icons?i=github" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="ybozan49@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40"/>
+  </a>
+</p>
+
 <p align="center">
   <i>Always learning, always building.</i>
 </p>
