@@ -39,9 +39,8 @@
 
 ---
 
-### 📊 GitHub Stats
+---
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ybozan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ybozan&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <i>Always learning, always building.</i>
 </p>
