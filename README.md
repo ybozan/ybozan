@@ -19,27 +19,22 @@
 - 💻 Working with Python and Java.
 - 🔍 Currently exploring Computer Vision and Vision Transformers.
 
-### 🛠️ Technologies & Tools
-
 
 ### 🛠️ Technologies & Tools
 
 <table align="center">
   <tr>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
     </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=c" width="45"/><br>C
-    </td>
-    <td align="center" width="100">
+    <td align="center" width="110">
       <img src="https://skillicons.dev/icons?i=cs" width="45"/><br>C#
     </td>
-    <td align="center" width="100">
-      <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
+    <td align="center" width="110">
+      <img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL
     </td>
   </tr>
   <tr>
@@ -47,19 +42,23 @@
       <img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow
-    </td>
-    <td align="center">
       <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
-    </td>
   </tr>
 </table>
+
+### 📊 Data Science & Machine Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+</p>
 
 ### 🚀 Featured Projects
 
