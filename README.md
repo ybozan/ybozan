@@ -23,16 +23,43 @@
 
 
 ### 🛠️ Technologies & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cs,mysql,flask,tensorflow,git,github&perline=5" />
-</p>
 
-<p align="center">
-  <b>Python · Java · C · C# · MySQL</b>
-</p>
-<p align="center">
-  <b>Flask · TensorFlow · Git · GitHub</b>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=c" width="45"/><br>C
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=cs" width="45"/><br>C#
+    </td>
+    <td align="center" width="100">
+      <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>MySQL
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>TensorFlow
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="45"/><br>VS Code
+    </td>
+  </tr>
+</table>
 
 ### 🚀 Featured Projects
 
