@@ -21,8 +21,56 @@
 
 ### 🛠️ Technologies & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,cs,mysql,git,github,flask,tensorflow" />
+
+### 🛠️ Technologies & Tools
+
+<p align="center">
+  <a href="https://www.python.org/">
+    <img src="https://skillicons.dev/icons?i=python" width="45"/><br>
+    Python
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.java.com/">
+    <img src="https://skillicons.dev/icons?i=java" width="45"/><br>
+    Java
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/">
+    <img src="https://skillicons.dev/icons?i=mysql" width="45"/><br>
+    MySQL
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://flask.palletsprojects.com/">
+    <img src="https://skillicons.dev/icons?i=flask" width="45"/><br>
+    Flask
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.tensorflow.org/">
+    <img src="https://skillicons.dev/icons?i=tensorflow" width="45"/><br>
+    TensorFlow
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" width="45"/><br>
+    Git
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/">
+    <img src="https://skillicons.dev/icons?i=github" width="45"/><br>
+    GitHub
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://skillicons.dev/icons?i=cs" width="45"/><br>
+    C#
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+    <img src="https://skillicons.dev/icons?i=c" width="45"/><br>
+    C
+  </a>
 </p>
 
 ### 🚀 Featured Projects
