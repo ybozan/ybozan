@@ -20,35 +20,35 @@
 - 🔍 Currently exploring Computer Vision and Vision Transformers.
 
 
+
 ### 🛠️ Technologies & Tools
 
 <table align="center">
   <tr>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=python" width="45"/><br>Python
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=java" width="45"/><br>Java
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=cs" width="45"/><br>C#
     </td>
-    <td align="center" width="110">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=postgres" width="45"/><br>PostgreSQL
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=flask" width="45"/><br>Flask
     </td>
-    <td align="center">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=git" width="45"/><br>Git
     </td>
-    <td align="center">
+    <td align="center" width="100">
       <img src="https://skillicons.dev/icons?i=github" width="45"/><br>GitHub
     </td>
   </tr>
 </table>
+
 
 ### 📊 Data Science & Machine Learning
 
